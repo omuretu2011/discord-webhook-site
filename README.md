@@ -1,1 +1,2 @@
-# discord-webhook-site
+# discord-webhook-siteです
+#　注意事項として、返信表示はありますが、機能しないと思いますのでよろしくお願いします。
